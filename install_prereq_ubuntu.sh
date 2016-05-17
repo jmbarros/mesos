@@ -1,5 +1,7 @@
 #instal mesos
 #!/bin/bash
+
+#install pre-req
 apt-get update
 apt-get install -y tar wget git
 apt-get install -y openjdk-7-jdk
